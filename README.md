@@ -5,6 +5,6 @@ Inspiration for this project was actually a tweet that I came across which can b
 I took the tweet up as a challenge and was able to generate a team of players.  
 However, it still needs a bit of refinement as the four defenders shown can all be CBs sometimes instead of having a full back.    
 I plan on updating that section whenever I can.    
-A sample output can be found [here](link)  
+A sample output can be found [here](https://github.com/farhankapadia/FIFA/blob/master/pics/output.PNG)  
 
 PS: Again, I was only just introduced to pandas when I made this so please excuse the tedious iterative approaches adopted :P
