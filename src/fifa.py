@@ -1,11 +1,11 @@
 import pandas as pd
 
-fifa_15= pd.read_csv('players_15.csv')
-fifa_16= pd.read_csv('players_16.csv')
-fifa_17= pd.read_csv('players_17.csv')
-fifa_18= pd.read_csv('players_18.csv')
-fifa_19= pd.read_csv('players_19.csv')
-fifa_20= pd.read_csv('players_20.csv')
+fifa_15= pd.read_csv('../datasets/players_15.csv')
+fifa_16= pd.read_csv('../datasets/players_16.csv')
+fifa_17= pd.read_csv('../datasets/players_17.csv')
+fifa_18= pd.read_csv('../datasets/players_18.csv')
+fifa_19= pd.read_csv('../datasets/players_19.csv')
+fifa_20= pd.read_csv('../datasets/players_20.csv')
 
 cols= ['short_name', 'nationality', 'club', 'overall', 'player_positions']
 #these are the columns I want to use out of the entire dataset 
